@@ -22,6 +22,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('fakeweb', '~> 1.3')
   s.add_development_dependency('jnunemaker-matchy', '~> 0.4.0')
   s.add_development_dependency('mocha', '~> 0.9')
-  s.add_runtime_dependency('hashie', '~> 1.2.0')
-  s.add_runtime_dependency('httparty', '~> 0.11.0')
+#  s.add_runtime_dependency('hashie', '~> 1.2.0')
+#  s.add_runtime_dependency('httparty', '~> 0.11.0')
 end
